@@ -1,6 +1,5 @@
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Alexandre Alves</h1>
 <h3 align="center">A beginner developer/programmer, starting in the world of technology.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 - 🌱 I’m currently learning HTLM, JavaScript and CSS
 
